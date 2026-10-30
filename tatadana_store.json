@@ -1,0 +1,1899 @@
+{
+  "transactions": {
+    "tx_174f1b1f-611": {
+      "id": "tx_174f1b1f-611",
+      "user_id": "user_real_balance_test_381396",
+      "wallet_id": "wallet_b55df5d1",
+      "wallet_name": "BCA Rekening Utama",
+      "category_id": "cat_87ff1eb5",
+      "category_name": "cat_test_belanja",
+      "category_icon": "🏷️",
+      "type": "expense",
+      "amount": 1500000.0,
+      "description": "Belanja Mingguan Supermarket",
+      "notes": "Kategori: cat_test_belanja",
+      "source": "web",
+      "target_wallet_id": null,
+      "transaction_date": "2026-10-29T21:35:59.020074+07:00",
+      "created_at": "2026-10-29T21:35:59.020106+07:00"
+    },
+    "tx_d7f06e0d-49d": {
+      "id": "tx_d7f06e0d-49d",
+      "user_id": "user_real_balance_test_381396",
+      "wallet_id": "wallet_b55df5d1",
+      "wallet_name": "BCA Rekening Utama",
+      "category_id": "cat_e3d965c2",
+      "category_name": "cat_test_gaji",
+      "category_icon": "🏷️",
+      "type": "income",
+      "amount": 2000000.0,
+      "description": "Bonus Proyek",
+      "notes": "Kategori: cat_test_gaji",
+      "source": "web",
+      "target_wallet_id": null,
+      "transaction_date": "2026-10-29T21:35:59.034975+07:00",
+      "created_at": "2026-10-29T21:35:59.034997+07:00"
+    },
+    "1275aeb6-e381-4833-9517-d8c6bf6866aa": {
+      "id": "1275aeb6-e381-4833-9517-d8c6bf6866aa",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "df085f2e-5b0b-4ae4-b636-d94884a0fff7",
+      "category_id": "26128b39-2e51-49ab-af2b-73cab5c455e0",
+      "type": "expense",
+      "amount": 25000.0,
+      "description": "Kopi susu",
+      "notes": "Input Telegram Text",
+      "source": "telegram_text",
+      "transaction_date": "2026-10-29T21:36:56.191697+07:00",
+      "created_at": "2026-10-29T21:36:56.191703+07:00"
+    },
+    "19be4d42-66b6-4484-965b-aa0b83ff55ba": {
+      "id": "19be4d42-66b6-4484-965b-aa0b83ff55ba",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "wallet_aaab3372",
+      "category_id": "26128b39-2e51-49ab-af2b-73cab5c455e0",
+      "type": "expense",
+      "amount": 22000.0,
+      "description": "Kopi",
+      "notes": "Dicatat via Tata AI Bot Web App (BCA Utama)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-29T21:36:57.233744+07:00",
+      "created_at": "2026-10-29T21:36:57.233764+07:00"
+    },
+    "60afe665-f587-45e0-8167-4cba311bca5f": {
+      "id": "60afe665-f587-45e0-8167-4cba311bca5f",
+      "user_id": "user_five_wallets_483444",
+      "wallet_id": "wallet_f68f5971",
+      "category_id": "3432b963-6607-4fb7-8f3a-5293b3745af3",
+      "type": "expense",
+      "amount": 750000.0,
+      "description": "Sepatu olahraga",
+      "notes": "Dicatat via Tata AI Bot Web App (Seabank Digital)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-29T21:57:26.638852+07:00",
+      "created_at": "2026-10-29T21:57:26.638869+07:00"
+    },
+    "242507e5-3f48-40e6-b0df-419f53886cab": {
+      "id": "242507e5-3f48-40e6-b0df-419f53886cab",
+      "user_id": "user_five_wallets_b6d35c",
+      "wallet_id": "wallet_b6b86bfb",
+      "category_id": "987c1119-969b-4599-b484-58c2bac064e3",
+      "type": "expense",
+      "amount": 750000.0,
+      "description": "Sepatu olahraga",
+      "notes": "Dicatat via Tata AI Bot Web App (Seabank Digital)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-29T21:57:41.559126+07:00",
+      "created_at": "2026-10-29T21:57:41.559144+07:00"
+    },
+    "ccb81578-da91-4e9d-adcf-c2b4615e1137": {
+      "id": "ccb81578-da91-4e9d-adcf-c2b4615e1137",
+      "user_id": "admin_sitihawa_01",
+      "wallet_id": "wallet_1a1641ca",
+      "category_id": "76bf5e6f-ef25-4f8b-8b9c-ca1140b05e21",
+      "type": "expense",
+      "amount": 22000.0,
+      "description": "Kopi",
+      "notes": "Dicatat via Tata AI Bot Web App (OVO)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-29T22:02:52.862282+07:00",
+      "created_at": "2026-10-29T22:02:52.862298+07:00"
+    },
+    "20d0d778-ec62-48f2-964c-c4e61a053183": {
+      "id": "20d0d778-ec62-48f2-964c-c4e61a053183",
+      "user_id": "admin_sitihawa_01",
+      "wallet_id": "wallet_f9ac495e",
+      "category_id": "3da39d1c-25ce-4062-8017-ab03f0f884ae",
+      "type": "income",
+      "amount": 500000.0,
+      "description": "Gaji",
+      "notes": "Dicatat via Tata AI Bot Web App (Tunai)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-30T09:52:10.289667+07:00",
+      "created_at": "2026-10-30T09:52:10.289684+07:00"
+    },
+    "tx_6d9851f4-69b": {
+      "id": "tx_6d9851f4-69b",
+      "user_id": "user_clean_budget_d801f7",
+      "wallet_id": "wallet_824bcbf6",
+      "wallet_name": "BCA Rekening",
+      "category_id": "cat_40f89d13",
+      "category_name": "Makanan",
+      "category_icon": "🍜",
+      "type": "expense",
+      "amount": 1200000.0,
+      "description": "Makan bersama teman",
+      "notes": "Kategori: Makanan",
+      "source": "web",
+      "target_wallet_id": null,
+      "transaction_date": "2026-10-30T10:10:08.370407+07:00",
+      "created_at": "2026-10-30T10:10:08.370439+07:00"
+    },
+    "7fb8ab76-b4ab-4616-8f23-5a75614832af": {
+      "id": "7fb8ab76-b4ab-4616-8f23-5a75614832af",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "wallet_92faabea",
+      "category_id": "2dfd2147-81f5-42c1-bca4-f504a84eabd5",
+      "type": "expense",
+      "amount": 25000.0,
+      "description": "Kopi susu",
+      "notes": "Input Telegram Text",
+      "source": "telegram_text",
+      "transaction_date": "2026-10-30T10:39:22.012050+07:00",
+      "created_at": "2026-10-30T10:39:22.012056+07:00"
+    },
+    "51020f44-79b4-456e-8d77-e6a88568c963": {
+      "id": "51020f44-79b4-456e-8d77-e6a88568c963",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "wallet_92faabea",
+      "category_id": "2dfd2147-81f5-42c1-bca4-f504a84eabd5",
+      "type": "expense",
+      "amount": 22000.0,
+      "description": "Kopi",
+      "notes": "Dicatat via Tata AI Bot Web App (Mandiri Tabungan)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-30T10:39:22.979891+07:00",
+      "created_at": "2026-10-30T10:39:22.979907+07:00"
+    },
+    "c9a9d9d9-2abd-4825-8644-9db1603193cc": {
+      "id": "c9a9d9d9-2abd-4825-8644-9db1603193cc",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "wallet_92faabea",
+      "category_id": "b891b579-d12a-48ea-94d9-b4ce58f74337",
+      "type": "expense",
+      "amount": 25000.0,
+      "description": "Kopi susu",
+      "notes": "Input Telegram Text",
+      "source": "telegram_text",
+      "transaction_date": "2026-10-30T15:03:25.888031+07:00",
+      "created_at": "2026-10-30T15:03:25.888037+07:00"
+    },
+    "f553c682-32ee-497d-b906-c9dd2d32a97b": {
+      "id": "f553c682-32ee-497d-b906-c9dd2d32a97b",
+      "user_id": "user_demo_tatadana_01",
+      "wallet_id": "wallet_92faabea",
+      "category_id": "b891b579-d12a-48ea-94d9-b4ce58f74337",
+      "type": "expense",
+      "amount": 22000.0,
+      "description": "Kopi",
+      "notes": "Dicatat via Tata AI Bot Web App (Mandiri Tabungan)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-30T15:03:26.800343+07:00",
+      "created_at": "2026-10-30T15:03:26.800358+07:00"
+    },
+    "c9109aab-1e68-4e6a-b71b-3bbd5ac25f46": {
+      "id": "c9109aab-1e68-4e6a-b71b-3bbd5ac25f46",
+      "user_id": "admin_sitihawa_01",
+      "wallet_id": "wallet_1a1641ca",
+      "category_id": "c4c5b082-e0ff-4b01-b621-c640485cfca9",
+      "type": "expense",
+      "amount": 10000.0,
+      "description": "Thr",
+      "notes": "Dicatat via Tata AI Bot Web App (OVO)",
+      "source": "web_ai_bot",
+      "transaction_date": "2026-10-30T15:45:31.253558+07:00",
+      "created_at": "2026-10-30T15:45:31.253574+07:00"
+    },
+    "tx_c295a177-02f": {
+      "id": "tx_c295a177-02f",
+      "user_id": "admin_sitihawa_01",
+      "wallet_id": "wallet_f9ac495e",
+      "wallet_name": "Tunai",
+      "category_id": "cat_89e08f8b",
+      "category_name": "Transportasi",
+      "category_icon": "🚗",
+      "type": "expense",
+      "amount": 10000.0,
+      "description": "bensin",
+      "notes": "Kategori: Transportasi",
+      "source": "web",
+      "target_wallet_id": null,
+      "transaction_date": "2026-10-30T17:29:22.962940+07:00",
+      "created_at": "2026-10-30T17:29:22.963006+07:00"
+    }
+  },
+  "wallets": {
+    "wallet_f105b0ad": {
+      "id": "wallet_f105b0ad",
+      "user_id": "admin_sitihawa_01",
+      "name": "BCA",
+      "type": "bank",
+      "balance": 2000000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T20:49:48.160478+07:00"
+    },
+    "wallet_f9ac495e": {
+      "id": "wallet_f9ac495e",
+      "user_id": "admin_sitihawa_01",
+      "name": "Tunai",
+      "type": "bank",
+      "balance": 1490000.0,
+      "icon": "💵",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T20:50:01.528284+07:00"
+    },
+    "wallet_1a1641ca": {
+      "id": "wallet_1a1641ca",
+      "user_id": "admin_sitihawa_01",
+      "name": "OVO",
+      "type": "bank",
+      "balance": 468000.0,
+      "icon": "📱",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T20:50:17.159640+07:00"
+    },
+    "wallet_b55df5d1": {
+      "id": "wallet_b55df5d1",
+      "user_id": "user_real_balance_test_381396",
+      "name": "BCA Rekening Utama",
+      "type": "bank",
+      "balance": 5500000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T21:35:58.999262+07:00"
+    },
+    "wallet_92faabea": {
+      "id": "wallet_92faabea",
+      "user_id": "user_demo_tatadana_01",
+      "name": "Mandiri Tabungan",
+      "type": "bank",
+      "balance": 9906000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:36:57.192104+07:00"
+    },
+    "wallet_aeb0d2e7": {
+      "id": "wallet_aeb0d2e7",
+      "user_id": "user_demo_tatadana_01",
+      "name": "GoPay",
+      "type": "bank",
+      "balance": 500000.0,
+      "icon": "📱",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:36:57.202111+07:00"
+    },
+    "wallet_dce5063a": {
+      "id": "wallet_dce5063a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "Dompet Tunai",
+      "type": "bank",
+      "balance": 250000.0,
+      "icon": "💵",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:36:57.212007+07:00"
+    },
+    "wallet_7ad8b21f": {
+      "id": "wallet_7ad8b21f",
+      "user_id": "user_single_wallet_db1e8c",
+      "name": "Bank Jago Syariah",
+      "type": "bank",
+      "balance": 1750000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T21:57:26.579536+07:00"
+    },
+    "wallet_f68f5971": {
+      "id": "wallet_f68f5971",
+      "user_id": "user_five_wallets_483444",
+      "name": "Seabank Digital",
+      "type": "bank",
+      "balance": 1750000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T21:57:26.592518+07:00"
+    },
+    "wallet_af2130f5": {
+      "id": "wallet_af2130f5",
+      "user_id": "user_five_wallets_483444",
+      "name": "Blu by BCA Digital",
+      "type": "bank",
+      "balance": 4200000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:26.599307+07:00"
+    },
+    "wallet_08b7b3a6": {
+      "id": "wallet_08b7b3a6",
+      "user_id": "user_five_wallets_483444",
+      "name": "ShopeePay",
+      "type": "bank",
+      "balance": 350000.0,
+      "icon": "📱",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:26.607608+07:00"
+    },
+    "wallet_9e869bc7": {
+      "id": "wallet_9e869bc7",
+      "user_id": "user_five_wallets_483444",
+      "name": "Kas Kecil Dompet",
+      "type": "bank",
+      "balance": 125000.0,
+      "icon": "💵",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:26.616379+07:00"
+    },
+    "wallet_11023a7a": {
+      "id": "wallet_11023a7a",
+      "user_id": "user_five_wallets_483444",
+      "name": "Tabungan Emas Antam",
+      "type": "bank",
+      "balance": 15000000.0,
+      "icon": "👛",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:26.623867+07:00"
+    },
+    "wallet_a8ee01d3": {
+      "id": "wallet_a8ee01d3",
+      "user_id": "user_single_wallet_3d5149",
+      "name": "Bank Jago Syariah",
+      "type": "bank",
+      "balance": 1750000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T21:57:41.496845+07:00"
+    },
+    "wallet_b6b86bfb": {
+      "id": "wallet_b6b86bfb",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "Seabank Digital",
+      "type": "bank",
+      "balance": 1750000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-29T21:57:41.507714+07:00"
+    },
+    "wallet_7d5bb412": {
+      "id": "wallet_7d5bb412",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "Blu by BCA Digital",
+      "type": "bank",
+      "balance": 4200000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:41.515506+07:00"
+    },
+    "wallet_f197f5aa": {
+      "id": "wallet_f197f5aa",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "ShopeePay",
+      "type": "bank",
+      "balance": 350000.0,
+      "icon": "📱",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:41.525117+07:00"
+    },
+    "wallet_99c4dd69": {
+      "id": "wallet_99c4dd69",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "Kas Kecil Dompet",
+      "type": "bank",
+      "balance": 125000.0,
+      "icon": "💵",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:41.536044+07:00"
+    },
+    "wallet_a1c251d1": {
+      "id": "wallet_a1c251d1",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "Tabungan Emas Antam",
+      "type": "bank",
+      "balance": 15000000.0,
+      "icon": "👛",
+      "color": "#F97316",
+      "is_default_telegram": false,
+      "created_at": "2026-10-29T21:57:41.546057+07:00"
+    },
+    "wallet_824bcbf6": {
+      "id": "wallet_824bcbf6",
+      "user_id": "user_clean_budget_d801f7",
+      "name": "BCA Rekening",
+      "type": "bank",
+      "balance": 8800000.0,
+      "icon": "🏦",
+      "color": "#F97316",
+      "is_default_telegram": true,
+      "created_at": "2026-10-30T10:10:08.337618+07:00"
+    }
+  },
+  "categories": {
+    "545e631f-f653-4732-a77d-e3e359cad57e": {
+      "id": "545e631f-f653-4732-a77d-e3e359cad57e",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "29c5cb87-e4d2-4737-93a3-15148f06f1a2": {
+      "id": "29c5cb87-e4d2-4737-93a3-15148f06f1a2",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "1d328729-9c38-4dce-9b7b-7785f858fd9f": {
+      "id": "1d328729-9c38-4dce-9b7b-7785f858fd9f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "ee90fc37-3b8c-4288-bbc1-5795048391f4": {
+      "id": "ee90fc37-3b8c-4288-bbc1-5795048391f4",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "c2fc8efd-f6b2-4314-97a0-c811e31de7f3": {
+      "id": "c2fc8efd-f6b2-4314-97a0-c811e31de7f3",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "ab75eaf6-ee04-4182-a5ac-ea049bbd355a": {
+      "id": "ab75eaf6-ee04-4182-a5ac-ea049bbd355a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "7de7dbc0-baa3-42d8-a936-6b8c08c1c252": {
+      "id": "7de7dbc0-baa3-42d8-a936-6b8c08c1c252",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "94c85aa7-8364-4d9d-b346-08373bc7ec90": {
+      "id": "94c85aa7-8364-4d9d-b346-08373bc7ec90",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "01442657-e17b-4f45-a5dc-4b8c8ad39b24": {
+      "id": "01442657-e17b-4f45-a5dc-4b8c8ad39b24",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "6ab3d519-5f26-49cc-9d40-7cc7924963c2": {
+      "id": "6ab3d519-5f26-49cc-9d40-7cc7924963c2",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "dddd17f5-03d8-4a3e-bb13-3fd912eadf44": {
+      "id": "dddd17f5-03d8-4a3e-bb13-3fd912eadf44",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "75dcd5cf-9a12-4d17-8ebe-a4e310732b56": {
+      "id": "75dcd5cf-9a12-4d17-8ebe-a4e310732b56",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "24de9bdb-e3ca-4ef1-912e-865774228e87": {
+      "id": "24de9bdb-e3ca-4ef1-912e-865774228e87",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "fea5ebec-c91f-45ae-af97-4b437811c530": {
+      "id": "fea5ebec-c91f-45ae-af97-4b437811c530",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "81bc3379-c4c9-4f8a-a0e5-76ffca782330": {
+      "id": "81bc3379-c4c9-4f8a-a0e5-76ffca782330",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "c4934c61-9753-46b1-98d9-746e09f824fa": {
+      "id": "c4934c61-9753-46b1-98d9-746e09f824fa",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "dc6535ae-1165-45f5-b01f-61b049586f69": {
+      "id": "dc6535ae-1165-45f5-b01f-61b049586f69",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "04907ac7-d1e9-44f0-a3aa-753663bd2c5b": {
+      "id": "04907ac7-d1e9-44f0-a3aa-753663bd2c5b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "7e310c7c-56a7-4ad4-b965-c23a4e7f11f8": {
+      "id": "7e310c7c-56a7-4ad4-b965-c23a4e7f11f8",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "eab4584e-eed6-45f5-ab3b-352992bf2bb5": {
+      "id": "eab4584e-eed6-45f5-ab3b-352992bf2bb5",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "f66c3338-dc59-4808-b875-34fb1ad38d76": {
+      "id": "f66c3338-dc59-4808-b875-34fb1ad38d76",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "40623464-343b-426e-9907-4d1b8f6643a7": {
+      "id": "40623464-343b-426e-9907-4d1b8f6643a7",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "b2b44ac6-7c60-46e2-92ab-ff3156f43929": {
+      "id": "b2b44ac6-7c60-46e2-92ab-ff3156f43929",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "e661a1df-f2c7-4750-848d-e4ebb0f4b570": {
+      "id": "e661a1df-f2c7-4750-848d-e4ebb0f4b570",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "bf49e66e-afc7-4a5c-b43d-13f7e464514d": {
+      "id": "bf49e66e-afc7-4a5c-b43d-13f7e464514d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "2534a8eb-8375-4bc7-a611-60fe6d7399e8": {
+      "id": "2534a8eb-8375-4bc7-a611-60fe6d7399e8",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "84f75e12-a991-4301-a82c-1393ccedd9ad": {
+      "id": "84f75e12-a991-4301-a82c-1393ccedd9ad",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "a96821de-ff0f-4dcb-833a-4104286448f4": {
+      "id": "a96821de-ff0f-4dcb-833a-4104286448f4",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "595429d6-cc95-4e58-abb2-e132c4e5e3fa": {
+      "id": "595429d6-cc95-4e58-abb2-e132c4e5e3fa",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "ef437463-11db-4d83-8334-d1f3b1dcee5f": {
+      "id": "ef437463-11db-4d83-8334-d1f3b1dcee5f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "fa3abb40-5d10-48cc-bdf1-294dee478aa5": {
+      "id": "fa3abb40-5d10-48cc-bdf1-294dee478aa5",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "8c292723-a3af-4280-bbfc-ef41092f3f70": {
+      "id": "8c292723-a3af-4280-bbfc-ef41092f3f70",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "4243c6a0-42d2-4b1e-a3fa-9e42c2cb930a": {
+      "id": "4243c6a0-42d2-4b1e-a3fa-9e42c2cb930a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "0accf387-1b2d-4604-a79f-2ee4a4757ddf": {
+      "id": "0accf387-1b2d-4604-a79f-2ee4a4757ddf",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "583b4a7e-9640-4a81-a208-d223e0f013bc": {
+      "id": "583b4a7e-9640-4a81-a208-d223e0f013bc",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "07be5d1c-ad48-4f38-9450-c2c9ffd16d84": {
+      "id": "07be5d1c-ad48-4f38-9450-c2c9ffd16d84",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "99785bc8-a35c-411d-b173-cdb0edb52f5b": {
+      "id": "99785bc8-a35c-411d-b173-cdb0edb52f5b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "3ab58296-e7af-424a-9f7b-d90f6af87c1e": {
+      "id": "3ab58296-e7af-424a-9f7b-d90f6af87c1e",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "5917984e-2d19-4526-a8d9-58613dffdc14": {
+      "id": "5917984e-2d19-4526-a8d9-58613dffdc14",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "c0c9e6c7-2208-4993-a16b-38cdd44a0a0f": {
+      "id": "c0c9e6c7-2208-4993-a16b-38cdd44a0a0f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "af9e6d01-7890-40d4-baf5-ce5e16238a7b": {
+      "id": "af9e6d01-7890-40d4-baf5-ce5e16238a7b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "6aff52c1-1abf-4a4c-a352-b19d516dca91": {
+      "id": "6aff52c1-1abf-4a4c-a352-b19d516dca91",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "8f7ed8b5-f73f-4ef7-a4eb-15de86b5a35e": {
+      "id": "8f7ed8b5-f73f-4ef7-a4eb-15de86b5a35e",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "7754cffa-7666-499b-aae8-7fb65d2bab50": {
+      "id": "7754cffa-7666-499b-aae8-7fb65d2bab50",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "b5cfcdf2-f30f-4c52-a993-40912b17258f": {
+      "id": "b5cfcdf2-f30f-4c52-a993-40912b17258f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "b891b579-d12a-48ea-94d9-b4ce58f74337": {
+      "id": "b891b579-d12a-48ea-94d9-b4ce58f74337",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "ff4c2f8a-28b0-4494-9e3a-5d660ef1834c": {
+      "id": "ff4c2f8a-28b0-4494-9e3a-5d660ef1834c",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "4c7cb26f-b53a-4937-8396-0591bd2fe5bb": {
+      "id": "4c7cb26f-b53a-4937-8396-0591bd2fe5bb",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "17ae7f85-ae13-4080-b82e-d9b2fd75350b": {
+      "id": "17ae7f85-ae13-4080-b82e-d9b2fd75350b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "d66eaf97-fd07-4170-8688-9b547d975e61": {
+      "id": "d66eaf97-fd07-4170-8688-9b547d975e61",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "106f1988-a758-43e8-87a3-409d23709399": {
+      "id": "106f1988-a758-43e8-87a3-409d23709399",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "f6248848-b3d4-4526-9d8f-68ed86ddf910": {
+      "id": "f6248848-b3d4-4526-9d8f-68ed86ddf910",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "97a2ac55-bb5b-4322-a0c0-5b7c9d1ea6d2": {
+      "id": "97a2ac55-bb5b-4322-a0c0-5b7c9d1ea6d2",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "8fac0585-019f-49ad-95ae-36b40dae220c": {
+      "id": "8fac0585-019f-49ad-95ae-36b40dae220c",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "2dfd2147-81f5-42c1-bca4-f504a84eabd5": {
+      "id": "2dfd2147-81f5-42c1-bca4-f504a84eabd5",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "84ebf021-97fc-4083-a034-9aa615d329a3": {
+      "id": "84ebf021-97fc-4083-a034-9aa615d329a3",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "c683c4c2-7584-42ad-bee3-7449f4df8a16": {
+      "id": "c683c4c2-7584-42ad-bee3-7449f4df8a16",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "48d08190-e7d8-4bc8-b7cc-ce72afc6ae8d": {
+      "id": "48d08190-e7d8-4bc8-b7cc-ce72afc6ae8d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "0b148006-3042-4379-81ca-4a990a312b88": {
+      "id": "0b148006-3042-4379-81ca-4a990a312b88",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "3d918e3a-1c9b-4972-9ce3-7339d98f3df4": {
+      "id": "3d918e3a-1c9b-4972-9ce3-7339d98f3df4",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "92efbf2a-3b14-457e-8bf5-6dbb83c67da0": {
+      "id": "92efbf2a-3b14-457e-8bf5-6dbb83c67da0",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "f9f5786b-0286-4167-9e10-c6b14d03b04c": {
+      "id": "f9f5786b-0286-4167-9e10-c6b14d03b04c",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "a927a978-4d9d-400c-968a-4bd8b67fec72": {
+      "id": "a927a978-4d9d-400c-968a-4bd8b67fec72",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "952a0f19-dad5-429a-84fb-e162218bc60d": {
+      "id": "952a0f19-dad5-429a-84fb-e162218bc60d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "215eb2bf-922b-4896-a447-d2bf222ed6eb": {
+      "id": "215eb2bf-922b-4896-a447-d2bf222ed6eb",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "b8b8587c-91e3-4b30-8d3e-dc53f84fac4a": {
+      "id": "b8b8587c-91e3-4b30-8d3e-dc53f84fac4a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "4b3cf8e5-f681-4330-ba37-77ce9dcf9b9d": {
+      "id": "4b3cf8e5-f681-4330-ba37-77ce9dcf9b9d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "75c3ea30-e790-4541-ab17-201af2cc593a": {
+      "id": "75c3ea30-e790-4541-ab17-201af2cc593a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "21fd9c18-16de-4272-a170-85604928653f": {
+      "id": "21fd9c18-16de-4272-a170-85604928653f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "2cab538e-116c-49b8-9c69-98069742be25": {
+      "id": "2cab538e-116c-49b8-9c69-98069742be25",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "781b0095-b6d4-478a-adb7-8d2702d19c2f": {
+      "id": "781b0095-b6d4-478a-adb7-8d2702d19c2f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "a4e3ac97-3d66-49d4-a1c0-4e9ca2551a21": {
+      "id": "a4e3ac97-3d66-49d4-a1c0-4e9ca2551a21",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "789500c6-b87f-4bc8-aab0-c38c5b99f18e": {
+      "id": "789500c6-b87f-4bc8-aab0-c38c5b99f18e",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "116a6934-e047-4548-94d0-a0757cfc4a1c": {
+      "id": "116a6934-e047-4548-94d0-a0757cfc4a1c",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "876b73d8-b487-4e6e-a05a-79ab9c4bbe90": {
+      "id": "876b73d8-b487-4e6e-a05a-79ab9c4bbe90",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "cd4f1d93-83a3-4216-b20f-8a29a475ca41": {
+      "id": "cd4f1d93-83a3-4216-b20f-8a29a475ca41",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "0031014b-3417-46ae-8bb6-dc9f71dc3587": {
+      "id": "0031014b-3417-46ae-8bb6-dc9f71dc3587",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "a1d6c19b-0e1a-4416-acca-6374e5697f1c": {
+      "id": "a1d6c19b-0e1a-4416-acca-6374e5697f1c",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "c323baad-6a8a-42b0-acfd-1954296cd01a": {
+      "id": "c323baad-6a8a-42b0-acfd-1954296cd01a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "393bac98-d856-4771-817e-b874a882f6b4": {
+      "id": "393bac98-d856-4771-817e-b874a882f6b4",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "f3fb3d9e-5270-4be9-918f-7ecd851b563a": {
+      "id": "f3fb3d9e-5270-4be9-918f-7ecd851b563a",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "2f80a359-3a63-4874-8ebf-f3d63cf90b66": {
+      "id": "2f80a359-3a63-4874-8ebf-f3d63cf90b66",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "7a836c4c-8d86-429b-b89c-268e9b85def4": {
+      "id": "7a836c4c-8d86-429b-b89c-268e9b85def4",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "c8be7041-fea7-43f3-b214-d7753ac12fb2": {
+      "id": "c8be7041-fea7-43f3-b214-d7753ac12fb2",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "d6ee2785-db7d-408f-bffb-9db3b48c15cd": {
+      "id": "d6ee2785-db7d-408f-bffb-9db3b48c15cd",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "5b6aecca-b01d-449e-9aef-054f1c528533": {
+      "id": "5b6aecca-b01d-449e-9aef-054f1c528533",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "bca93b8d-e034-4433-a17f-ef426b326be8": {
+      "id": "bca93b8d-e034-4433-a17f-ef426b326be8",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "f3e93032-5a8f-4344-9c3f-8792c8fb35a8": {
+      "id": "f3e93032-5a8f-4344-9c3f-8792c8fb35a8",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "c243297d-479f-45a5-9be6-b5013f3d62cf": {
+      "id": "c243297d-479f-45a5-9be6-b5013f3d62cf",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "ca478789-2346-45a2-9525-12c889d9d404": {
+      "id": "ca478789-2346-45a2-9525-12c889d9d404",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "26128b39-2e51-49ab-af2b-73cab5c455e0": {
+      "id": "26128b39-2e51-49ab-af2b-73cab5c455e0",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "6be2c416-58d2-4660-8790-556e1af76696": {
+      "id": "6be2c416-58d2-4660-8790-556e1af76696",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "4af76013-989c-4b0c-ad61-931d18c8b31b": {
+      "id": "4af76013-989c-4b0c-ad61-931d18c8b31b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "ba5cd00a-df01-4f5d-9fe5-9d24068f4dd3": {
+      "id": "ba5cd00a-df01-4f5d-9fe5-9d24068f4dd3",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "02ba3a1a-a4a3-4fe9-9d2a-ec3bda33bb7f": {
+      "id": "02ba3a1a-a4a3-4fe9-9d2a-ec3bda33bb7f",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "fa514df7-3110-4312-b719-037c5d509616": {
+      "id": "fa514df7-3110-4312-b719-037c5d509616",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "07609a16-0b74-4377-b412-76f83bd55f60": {
+      "id": "07609a16-0b74-4377-b412-76f83bd55f60",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "373d25a3-f400-4508-bd61-d016621bd8fd": {
+      "id": "373d25a3-f400-4508-bd61-d016621bd8fd",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "d19b1277-63c7-4a01-8e38-cbf7522874f2": {
+      "id": "d19b1277-63c7-4a01-8e38-cbf7522874f2",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "c3f2eb75-c3e0-4f72-800e-414c211b727e": {
+      "id": "c3f2eb75-c3e0-4f72-800e-414c211b727e",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "0ed553c7-51e8-4f66-880d-5b4bfb641c74": {
+      "id": "0ed553c7-51e8-4f66-880d-5b4bfb641c74",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "2fd72ee7-fa43-4d04-88db-329b825bec1d": {
+      "id": "2fd72ee7-fa43-4d04-88db-329b825bec1d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "ad6c80c2-9f66-4242-94e8-2e08d85732ed": {
+      "id": "ad6c80c2-9f66-4242-94e8-2e08d85732ed",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "798c6ae6-7dbd-498f-9ce0-9c63580d42c7": {
+      "id": "798c6ae6-7dbd-498f-9ce0-9c63580d42c7",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "ea85b682-705c-4669-8fb2-2590cc304253": {
+      "id": "ea85b682-705c-4669-8fb2-2590cc304253",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "c0291b89-02a8-4e4a-add2-e25c02b9d3f1": {
+      "id": "c0291b89-02a8-4e4a-add2-e25c02b9d3f1",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "78125e5c-6960-45ae-a4e0-be12fcf6625d": {
+      "id": "78125e5c-6960-45ae-a4e0-be12fcf6625d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "25957ff3-42c8-49c9-8969-4b2a593dffff": {
+      "id": "25957ff3-42c8-49c9-8969-4b2a593dffff",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "cc5dec36-85f5-4bbc-8f1d-0406ed3d73a8": {
+      "id": "cc5dec36-85f5-4bbc-8f1d-0406ed3d73a8",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "d9395e58-c3b3-463f-ab41-0ff5cf181d7d": {
+      "id": "d9395e58-c3b3-463f-ab41-0ff5cf181d7d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🚗 Transport",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "monthly_budget": 0.0
+    },
+    "49668c09-0264-4eec-8e1a-ca4de18b008d": {
+      "id": "49668c09-0264-4eec-8e1a-ca4de18b008d",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🎮 Hiburan",
+      "type": "expense",
+      "icon": "🎮",
+      "color": "#8B5CF6",
+      "monthly_budget": 0.0
+    },
+    "f3b99a11-a1c0-43b7-ad27-6b8aebc80891": {
+      "id": "f3b99a11-a1c0-43b7-ad27-6b8aebc80891",
+      "user_id": "user_demo_tatadana_01",
+      "name": "🏠 Tagihan",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#EF4444",
+      "monthly_budget": 0.0
+    },
+    "b0503174-7fce-4a9d-83f3-4f8b8066d300": {
+      "id": "b0503174-7fce-4a9d-83f3-4f8b8066d300",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💊 Kesehatan",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "8aecb580-2eb8-4e8d-ba99-789400bf11a6": {
+      "id": "8aecb580-2eb8-4e8d-ba99-789400bf11a6",
+      "user_id": "user_demo_tatadana_01",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#EC4899",
+      "monthly_budget": 0.0
+    },
+    "c2297983-c643-48e8-9226-886441cc9b1b": {
+      "id": "c2297983-c643-48e8-9226-886441cc9b1b",
+      "user_id": "user_demo_tatadana_01",
+      "name": "📚 Pendidikan",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#6366F1",
+      "monthly_budget": 0.0
+    },
+    "a4f0f773-bf70-4e97-8b72-f1c6dd448871": {
+      "id": "a4f0f773-bf70-4e97-8b72-f1c6dd448871",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "0ba2fcc6-fa80-4ea8-bff2-d5060186be43": {
+      "id": "0ba2fcc6-fa80-4ea8-bff2-d5060186be43",
+      "user_id": "user_demo_tatadana_01",
+      "name": "💡 Freelance",
+      "type": "income",
+      "icon": "💡",
+      "color": "#F59E0B",
+      "monthly_budget": 0.0
+    },
+    "cat_86109204": {
+      "id": "cat_86109204",
+      "user_id": "user_test_anti_reset_001",
+      "name": "Elektronik",
+      "type": "expense",
+      "icon": "📱",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_00ec1208": {
+      "id": "cat_00ec1208",
+      "user_id": "user_test_anti_reset_001",
+      "name": "Transportasi",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_62264815": {
+      "id": "cat_62264815",
+      "user_id": "user_test_anti_reset_001",
+      "name": "Cicilan",
+      "type": "expense",
+      "icon": "💳",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_f4581b63": {
+      "id": "cat_f4581b63",
+      "user_id": "user_test_anti_reset_001",
+      "name": "Gaji",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "cat_b75aff78": {
+      "id": "cat_b75aff78",
+      "user_id": "user_anti_reset_ee3b9a",
+      "name": "Elektronik",
+      "type": "expense",
+      "icon": "📱",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_98efaa53": {
+      "id": "cat_98efaa53",
+      "user_id": "user_anti_reset_ee3b9a",
+      "name": "Transportasi",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_d908b777": {
+      "id": "cat_d908b777",
+      "user_id": "user_anti_reset_ee3b9a",
+      "name": "Cicilan",
+      "type": "expense",
+      "icon": "💳",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_26fa1631": {
+      "id": "cat_26fa1631",
+      "user_id": "user_anti_reset_ee3b9a",
+      "name": "Gaji",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "cat_1a3b7717": {
+      "id": "cat_1a3b7717",
+      "user_id": "user_dash_fa2239",
+      "name": "Gaji",
+      "type": "income",
+      "icon": "💼",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "cat_28bef39b": {
+      "id": "cat_28bef39b",
+      "user_id": "user_dash_fa2239",
+      "name": "Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_4165d6db": {
+      "id": "cat_4165d6db",
+      "user_id": "user_dash_fa2239",
+      "name": "Elektronik",
+      "type": "expense",
+      "icon": "📱",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_b02179e5": {
+      "id": "cat_b02179e5",
+      "user_id": "user_dash_fa2239",
+      "name": "Transportasi",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_87ff1eb5": {
+      "id": "cat_87ff1eb5",
+      "user_id": "user_real_balance_test_381396",
+      "name": "cat_test_belanja",
+      "type": "expense",
+      "icon": "🏷️",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_e3d965c2": {
+      "id": "cat_e3d965c2",
+      "user_id": "user_real_balance_test_381396",
+      "name": "cat_test_gaji",
+      "type": "income",
+      "icon": "🏷️",
+      "color": "#10B981",
+      "monthly_budget": 0.0
+    },
+    "3432b963-6607-4fb7-8f3a-5293b3745af3": {
+      "id": "3432b963-6607-4fb7-8f3a-5293b3745af3",
+      "user_id": "user_five_wallets_483444",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#F97316",
+      "monthly_budget": 1000000.0
+    },
+    "987c1119-969b-4599-b484-58c2bac064e3": {
+      "id": "987c1119-969b-4599-b484-58c2bac064e3",
+      "user_id": "user_five_wallets_b6d35c",
+      "name": "👕 Belanja",
+      "type": "expense",
+      "icon": "👕",
+      "color": "#F97316",
+      "monthly_budget": 1000000.0
+    },
+    "76bf5e6f-ef25-4f8b-8b9c-ca1140b05e21": {
+      "id": "76bf5e6f-ef25-4f8b-8b9c-ca1140b05e21",
+      "user_id": "admin_sitihawa_01",
+      "name": "🍜 Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 1000000.0
+    },
+    "3da39d1c-25ce-4062-8017-ab03f0f884ae": {
+      "id": "3da39d1c-25ce-4062-8017-ab03f0f884ae",
+      "user_id": "admin_sitihawa_01",
+      "name": "💼 Gaji & Bonus",
+      "type": "income",
+      "icon": "💼",
+      "color": "#F97316",
+      "monthly_budget": 1000000.0
+    },
+    "cat_40f89d13": {
+      "id": "cat_40f89d13",
+      "user_id": "user_clean_budget_d801f7",
+      "name": "Makanan",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "c4c5b082-e0ff-4b01-b621-c640485cfca9": {
+      "id": "c4c5b082-e0ff-4b01-b621-c640485cfca9",
+      "user_id": "admin_sitihawa_01",
+      "name": "✨ Lainnya",
+      "type": "expense",
+      "icon": "✨",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    },
+    "cat_89e08f8b": {
+      "id": "cat_89e08f8b",
+      "user_id": "admin_sitihawa_01",
+      "name": "Transportasi",
+      "type": "expense",
+      "icon": "🚗",
+      "color": "#F97316",
+      "monthly_budget": 0.0
+    }
+  },
+  "budgets": {
+    "bgt_38b78907": {
+      "id": "bgt_38b78907",
+      "user_id": "user_dash_fa2239",
+      "category_id": "",
+      "category_name": "Makanan",
+      "amount": 3000000.0,
+      "period": "2026-10",
+      "icon": "🍜",
+      "color": "#F97316",
+      "created_at": "2026-10-29T20:14:35.130495+07:00"
+    },
+    "bgt_7cd5d6eb": {
+      "id": "bgt_7cd5d6eb",
+      "user_id": "user_clean_budget_d801f7",
+      "category_id": "",
+      "category_name": "Makanan",
+      "amount": 3000000.0,
+      "period": "2026-10",
+      "icon": "🍜",
+      "color": "#F97316",
+      "created_at": "2026-10-30T10:10:08.348005+07:00"
+    },
+    "bgt_7b301b69": {
+      "id": "bgt_7b301b69",
+      "user_id": "admin_sitihawa_01",
+      "category_id": "",
+      "category_name": "Makanan",
+      "amount": 500000.0,
+      "period": "current_month",
+      "icon": "🍜",
+      "color": "#F97316",
+      "created_at": "2026-10-30T10:16:30.908854+07:00"
+    },
+    "bgt_29557d61": {
+      "id": "bgt_29557d61",
+      "user_id": "admin_sitihawa_01",
+      "category_id": "",
+      "category_name": "Transportasi",
+      "amount": 200000.0,
+      "period": "current_month",
+      "icon": "🚗",
+      "color": "#3B82F6",
+      "created_at": "2026-10-30T10:17:10.554955+07:00"
+    }
+  },
+  "profiles": {
+    "user_demo_tatadana_01": {
+      "id": "user_demo_tatadana_01",
+      "email": "user@tatadana.id",
+      "full_name": "Pengguna Baru Finance",
+      "phone_number": "",
+      "phone_verified": true,
+      "plan": "free",
+      "default_currency": "IDR",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "role": "customer",
+      "is_approved": true,
+      "created_at": "2026-10-29T16:02:59.753974+07:00"
+    },
+    "admin_sitihawa_01": {
+      "id": "admin_sitihawa_01",
+      "email": "nur.sitihawa@gmail.com",
+      "full_name": "Siti Hawa",
+      "phone_number": "",
+      "phone_verified": true,
+      "plan": "pro",
+      "default_currency": "IDR",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=SitiHawa",
+      "role": "admin",
+      "is_approved": true,
+      "created_at": "2026-10-29T16:02:59.754007+07:00"
+    },
+    "user_pending_demo_02": {
+      "id": "user_pending_demo_02",
+      "email": "pending.user@gmail.com",
+      "full_name": "Calon Pengguna",
+      "phone_number": "089876543210",
+      "phone_verified": true,
+      "plan": "starter",
+      "default_currency": "IDR",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Pending",
+      "role": "customer",
+      "is_approved": false,
+      "created_at": "2026-10-29T16:02:59.754013+07:00"
+    },
+    "user_pelanggan_50591889": {
+      "id": "user_pelanggan_50591889",
+      "email": "user_pro_test_475728@tatadana.id",
+      "full_name": "Calon Pro User",
+      "phone_number": "081234567890",
+      "phone_verified": true,
+      "plan": "free",
+      "default_currency": "IDR",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_pelanggan_50591889",
+      "role": "pelanggan",
+      "is_approved": true,
+      "created_at": "2026-10-30T15:57:35.641057+07:00",
+      "subscription_status": "free"
+    },
+    "user_pelanggan_3efd77f4": {
+      "id": "user_pelanggan_3efd77f4",
+      "email": "malia@gmail.com",
+      "full_name": "milia",
+      "phone_number": "",
+      "phone_verified": false,
+      "plan": "pro",
+      "default_currency": "IDR",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_pelanggan_3efd77f4",
+      "role": "pelanggan",
+      "is_approved": true,
+      "created_at": "2026-10-30T19:47:36.771661+07:00",
+      "subscription_status": "pending_pro",
+      "status_pro": "pending_pro",
+      "pro_requested_at": "2026-10-30T22:19:38.079091"
+    },
+    "user_test_sync_pro_99": {
+      "id": "user_test_sync_pro_99",
+      "email": "budisantoso@example.com",
+      "full_name": "Budi Santoso",
+      "role": "pelanggan",
+      "is_approved": true,
+      "created_at": "2026-10-30T20:56:51.565746",
+      "subscription_status": "free",
+      "status_pro": "free",
+      "pro_requested_at": "2026-10-30T20:56:51.513061",
+      "plan": "free"
+    },
+    "user_pelanggan_fd413b36": {
+      "id": "user_pelanggan_fd413b36",
+      "email": "milia@gmail.com",
+      "full_name": "milia",
+      "role": "pelanggan",
+      "is_approved": true,
+      "created_at": "2026-10-30T21:42:02.112177",
+      "subscription_status": "pending_pro",
+      "status_pro": "pending_pro",
+      "pro_requested_at": "2026-10-30T21:42:02.112177"
+    }
+  },
+  "export_history": [
+    {
+      "id": "0873dd2b-c6d4-450d-925f-05272684edd5",
+      "user_id": "admin_sitihawa_01",
+      "file_type": "pdf",
+      "file_name": "TataDana_Report_admin_sitihawa_01_20261029_160703.pdf",
+      "download_url": "/api/reports/download/TataDana_Report_admin_sitihawa_01_20261029_160703.pdf",
+      "date_range": "2026-10-19 - 2026-10-19",
+      "transaction_count": 0,
+      "created_at": "2026-10-29T16:07:03.332850+07:00"
+    },
+    {
+      "id": "eb0018f5-52cb-40cc-8f89-eb60e0474933",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "xlsx",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261029_213656.xlsx",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261029_213656.xlsx",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 1,
+      "created_at": "2026-10-29T21:36:56.303834+07:00"
+    },
+    {
+      "id": "56047375-1eb6-4a99-85cd-c82e752b26db",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "pdf",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261029_213656.pdf",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261029_213656.pdf",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 1,
+      "created_at": "2026-10-29T21:36:56.312255+07:00"
+    },
+    {
+      "id": "5bc0c37f-ae21-4a51-bb0b-dec733da7f12",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "xlsx",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261030_103922.xlsx",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261030_103922.xlsx",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 3,
+      "created_at": "2026-10-30T10:39:22.120518+07:00"
+    },
+    {
+      "id": "16fed3c6-e7cc-4d23-b0f8-5ba7d334d00f",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "pdf",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261030_103922.pdf",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261030_103922.pdf",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 3,
+      "created_at": "2026-10-30T10:39:22.127595+07:00"
+    },
+    {
+      "id": "5167ab94-d98c-49ee-9b79-cd2996acd92e",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "xlsx",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261030_150325.xlsx",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261030_150325.xlsx",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 5,
+      "created_at": "2026-10-30T15:03:25.934166+07:00"
+    },
+    {
+      "id": "d2025206-01e0-4847-b1ad-40f7a7f5d895",
+      "user_id": "user_demo_tatadana_01",
+      "file_type": "pdf",
+      "file_name": "TataDana_Report_user_demo_tatadana_01_20261030_150325.pdf",
+      "download_url": "/api/reports/download/TataDana_Report_user_demo_tatadana_01_20261030_150325.pdf",
+      "date_range": "2026-10-01 - 2026-10-31",
+      "transaction_count": 5,
+      "created_at": "2026-10-30T15:03:25.943147+07:00"
+    }
+  ],
+  "admin_audit_logs": [],
+  "system_settings": {
+    "ai_mode": "single",
+    "primary_provider": "gemini",
+    "pro_price": "Rp99.000 / bulan"
+  }
+}
